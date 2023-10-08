@@ -9,6 +9,7 @@
 ## Установка git и VSCode на ваш ПК.
 
 ### Установка VSCode на ваш ПК.
+**Visual Studio Code** можно скачать на оффициальном сайте <https://code.visualstudio.com/>, либо напрямую [отсюда](https://code.visualstudio.com/docs/?dv=win64user)
 
 ### Установка git на ваш ПК
 
