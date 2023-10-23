@@ -3,8 +3,8 @@
 ## Что это и для чего нужна система контроля версий?
 
 ### Что такое система контроля версий?
-Эта система позволяет хранить историю изменения файлов, с авторами.
-Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. 
+This system allows you to store a history of file modifications with authors.
+A version control system is a system that records changes to a file or set of files over time and allows you to return later to a specific version. 
 
 ### Для чего нужна система контроля версий
 
